@@ -2,7 +2,7 @@
 
 ![Mike Warren](https://drive.google.com/thumbnail?id=1Qeo685wcVQfY8pJZGprCdfVGHJOCiTKx)
 
-[CV](https://drive.google.com/file/d/1HUJf7SwFr6R9lARonARvitA0m2KM1JpN/view)
+[CV](Michael%20Warren%20CV%202024.pdf)
 
 ## Who I am
 
