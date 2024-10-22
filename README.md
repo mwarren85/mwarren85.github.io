@@ -1,8 +1,10 @@
 # Mike Warren
 
-## Who I am
-
 ![Mike Warren](https://drive.google.com/thumbnail?id=1Qeo685wcVQfY8pJZGprCdfVGHJOCiTKx)
+
+[CV](https://drive.google.com/file/d/1HUJf7SwFr6R9lARonARvitA0m2KM1JpN/view)
+
+## Who I am
 
 A software engineer for 18 years, moving into a technical and managerial lead for the last 4 years.
 
@@ -16,14 +18,20 @@ Coaching and mentoring individuals to grow as developers, building skills beyond
 
 Setting up the processes and habits of high functioning teams. Allowing for fast, iterative delivery of robust code. Using the [four key devops metrics](https://www.atlassian.com/devops/frameworks/devops-metrics) to measure and improve performance.
 
-## What do I value
+I have experience and knowledge in architecting scalable distributed systems, problem solving issues of concurrency, resource management, micro-service management, etc.
 
-Communication, using ideals of *no mercy, no malice* and [Radical Candor](https://www.supersummary.com/radical-candor/summary/).  
+## What do I value most
 
-Figuring out what is the most valuble 
+Communication is key, to be as open and honest as possible, using ideals of *no mercy, no malice* and [Radical Candor](https://www.supersummary.com/radical-candor/summary/).  
 
-Continuous releasing
+Giving individuals [Purpose and Mastery](https://www.youtube.com/watch?v=u6XAPnuFjJc) of their skills. Allowing them to motivate themselves, and those around them.
+
+Working closely with all parts of the business in figuring out what is the most valuble product for the customer.
+
+The continuous releasing of code. Having every commit going to production, and the level of quality, automation, agility, and maturity that is gained by reaching it successfully.
 
 ## What are my personality quirks
 
-Being very direct and engaging, 
+Being very direct and engaging, I care fiercely for those I manage.
+
+Not being risk averse, using any issues or problems as a learning experience to grow.
